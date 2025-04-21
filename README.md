@@ -52,7 +52,6 @@ User Input ⟶ Graph Construction ⟶ GATNet Prediction ⟶ 2D Layout Rendering
 - Labeled room types
 - Room dimensions (width x height)
 - Doors and outer boundary box
-- Downloadable PNG image
 
 ---
 
