@@ -261,5 +261,5 @@ def Run(Boundary, front_door, room_centroids, bathroom_centroids, kitchen_centro
 # # For direct testing
 # if __name__ == "__main__":
 #     test_prompt = "Design a 2BHK flat with 2 bedrooms, 1 kitchen, 1 hall and 2 bathrooms."
-#     your_api_key = "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"  # 🔑 Set your OpenAI key here
+#     your_api_key = ""  # 🔑 Set your OpenAI key here
 #     layout = generate_layout_from_prompt(test_prompt, your_api_key, carpet_area=70)
