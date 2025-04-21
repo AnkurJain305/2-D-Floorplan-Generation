@@ -1,6 +1,6 @@
 from utils import *
 from model import *
-from upload import *
+
 
 
 def get_info():
