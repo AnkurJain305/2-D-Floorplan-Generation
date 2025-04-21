@@ -176,4 +176,5 @@ MIT License – open for academic and non-commercial use.
 
 ## 📸 Screenshots
 
-![Layout Example](./layouts/sample_layout.png)
+![image](https://github.com/user-attachments/assets/3cd7b1c7-a357-4103-8141-92cd79308aab)
+
